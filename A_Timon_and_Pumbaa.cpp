@@ -10,6 +10,8 @@ int main(){
     if(res >= 0)
     cout << a - b;
 
+    // new line
+
     else
    cout << "0";
 }
