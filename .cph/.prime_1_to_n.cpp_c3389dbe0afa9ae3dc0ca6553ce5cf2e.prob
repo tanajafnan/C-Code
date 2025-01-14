@@ -1,0 +1,1 @@
+{"name":"Local: prime_1_to_n","url":"e:\\lan(c++)\\prime_1_to_n.cpp","tests":[{"id":1727099093720,"input":"10","output":"2 3 5 7 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\lan(c++)\\prime_1_to_n.cpp","group":"local","local":true}
